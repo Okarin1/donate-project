@@ -7,7 +7,7 @@
     "title": "😘支付宝扫一扫 投喂",
     "othertitle": "长按图片保存，在支付宝打开<br />😘感谢投喂",
     "url": "https://qr.alipay.com/fkx17281rlgewseftukig8e?t=1646057027125",
-    "open_url": "alipays://platformapi/startapp?appId=10000007&qrcode=https://qr.alipay.com/FKX00710CQCHIHK4B9CA31",
+    "open_url": "alipays://platformapi/startapp?appId=10000007&qrcode=https://qr.alipay.com/fkx17281rlgewseftukig8e?t=1646057027125",
     "savetext": "保存二维码"
   },
   "wechatpay": {
